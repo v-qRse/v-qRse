@@ -1,16 +1,20 @@
-## Hi there 👋
+## Здравсвуйте, меня зовут Василий
 
-<!--
-**v-qRse/v-qRse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мой стек
+Java - Spring Boot - SQL - PostreSQL - Docker - Linux
+
+## Проекты
+
+## Достижения
+### 2025
+- Региональный IT-Хакатон от ВоГУ и Сбера, 3 место
+- Чемпионата Центральной России по программированию, ДИПЛОМ III СТЕПЕНИ
+- ICPC Central Russian Regional Contest, SEVENTEENTH PLACE
+- XI Международная научно-практическая  конференция (школа-семинар) молодых ученых «Прикладная математика и информатика: современные исследования в области естественных и технических наук» (Тольяттинский государственный университет)
+### 2024
+- ICPC Central Russian Regional Contest, Honorable Mention  
+
+## Контакты
+Mail: michin20k@gmail.com (ответ в течение дня)
