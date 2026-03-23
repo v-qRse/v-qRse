@@ -7,7 +7,7 @@ Java - Spring Boot - SQL - PostreSQL - NoSQL - Redis - Docker - Linux
 
 ## Проекты
 ### [Телеграм бот "Моё расписание"](https://github.com/v-qRse/telegram_bot)
-###### Клиент для [серверного приложения](https://github.com/v-qRse/event_server) c Redis для кэширования и своим Translator для обработки сообщения.
+###### Приложение-клиен с бд Redis для кэширования данных и Translotor для обработки входящих сообщений. ([приложение-сервер](https://github.com/v-qRse/event_server))
 
 ### [Приложение сервер для хранения событий](https://github.com/v-qRse/event_server)
 ###### REST API приложение с PostgreSQL базой данных.
