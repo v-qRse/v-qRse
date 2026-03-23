@@ -3,9 +3,20 @@
 
 
 ## Мой стек
-Java - Spring Boot - SQL - PostreSQL - Docker - Linux
+Java - Spring Boot - SQL - PostreSQL - NoSQL - Redis - Docker - Linux
 
 ## Проекты
+### [Телеграм бот "Моё расписание"](https://github.com/v-qRse/telegram_bot)
+###### Клиент для [серверного приложения](https://github.com/v-qRse/event_server) c Redis для кэширования и своим Translator для обработки сообщения.
+
+### [Приложение сервер для хранения событий](https://github.com/v-qRse/event_server)
+###### REST API приложение с PostgreSQL базой данных.
+
+### ["Книжный магазин"](https://github.com/v-qRse/bookstore)
+###### Web-приложение "Книжный магазин" на Java + Spring Boot с шаблонизатором Thymeleaf и базой данных H2.
+
+### [Учебная практика по Java](https://github.com/v-qRse/practic)
+###### Учебная практика в Сбербанк Технологии.
 
 ## Достижения
 ### 2025
