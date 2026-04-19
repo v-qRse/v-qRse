@@ -18,6 +18,9 @@ Java - Spring Boot - SQL - PostreSQL - NoSQL - Redis - Docker - Linux
 ### [Учебная практика по Java](https://github.com/v-qRse/practic)
 ###### Учебная практика в Сбербанк Технологии.
 
+### [Компилятор языка O](https://github.com/v-qRse/Compiler)
+###### О - подмножество языка Оберон, включающий тип Integer, Array, опериции над ними, модули IN/OUT.
+
 ## Достижения
 ### 2025
 - Региональный IT-Хакатон от ВоГУ и Сбера, 3 место
